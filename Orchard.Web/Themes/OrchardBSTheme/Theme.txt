@@ -1,0 +1,7 @@
+Name: OrchardBSTheme
+Author: Jorgen Dev
+Website: http://www.orchardproject.net
+Description: My first Theme
+Version: 1.8
+# todo: provide tags
+# Tags: Classic, Serif
